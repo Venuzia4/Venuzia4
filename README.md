@@ -1,16 +1,53 @@
-### Hi there 👋
 
-<!--
-**Venuzia4/Venuzia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 👋 Hi , I'm Venuzia
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Welcome to my github progfile!
+
+### Who am i?
+<hr>
+
+
+my name is Venuzia, i am a web developer in training (poec) at the wild code school.I started my retraining in January 2021 where I was able to improve my skills in front-ent technologies, namely: html/css, javascrpit and today Angular.
+Today I also want to learn back-end languages because my goal is to become a full-stack developer.
+passionate about digital with a strong desire to evolve professionally in this field, I am looking for a professional contract for an 18-month training on JAVA ANGULAR / ANDROID STUDIO - SPECIALIZATION DEVOPS.
+
+
+### What am i learning right now ?
+<hr>
+<ul>
+<li>Javascript</li>
+<li>Angular</li>
+<li>Typescript</li>
+<li>Java</li>
+<li>React</li>
+
+</ul>
+
+### my current projects
+<hr>
+
+<ul>
+<li>Groom: a room reservation application full-stack Angular/java (as part of my current training) </li>
+<li>My portfolio</li>
+
+</ul>
+You can find here some of mywork:
+Professional project with yalinov https://yalinov.bordeaux-1.wilders.dev/
+
+
+
+
+
+
+### How can you reachme?
+<ol>
+<li>vbabonguimabika@gmail.com</li>
+<li>https://www.linkedin.com/in/venuzia-babongui-mabika/</li>
+</ol>
