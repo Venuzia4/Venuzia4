@@ -36,7 +36,7 @@ passionate about digital with a strong desire to evolve professionally in this f
 <li>My portfolio</li>
 
 </ul>
-You can find here some of mywork:
+You can find here some of my work:
 Professional project with yalinov https://yalinov.bordeaux-1.wilders.dev/
 
 
