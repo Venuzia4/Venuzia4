@@ -11,7 +11,7 @@
 <hr>
 
 
-My name is Venuzia, i am a web developer in training (poec) at the wild code school.I started my retraining in January 2021 where I was able to improve my skills in front-ent technologies, namely: html/css, javascrpit, React and now Angular.
+I'm a web developer in training (poec) at the wild code school.I started my retraining in January 2021 where I was able to improve my skills in front-ent technologies, namely: html/css, javascrpit, React and now Angular.
 Today I also want to learn back-end languages because my goal is to become a full-stack developer.
 passionate about digital with a strong desire to evolve professionally in this field, I am looking for a professional contract for an 18-month training on <strong>Java Angular / Android Studio -DEVOPS</strong>.
 
