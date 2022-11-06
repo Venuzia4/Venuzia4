@@ -6,8 +6,9 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 
+<br>
 
-### Who am i?
+## :tipping_hand_woman: Who am i?
 <hr>
 
 
@@ -17,17 +18,17 @@ passionate about digital with a strong desire to evolve professionally in this f
 
 
 
+<br>
+
+
+## :briefcase: Technology & Tools
 <hr>
-
-
-### Technology & Tools
 
 [![HTML Shield](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS Shield](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![JavaScript Shield](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=272727)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -47,7 +48,9 @@ passionate about digital with a strong desire to evolve professionally in this f
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 [![VS Code Shield](https://img.shields.io/badge/VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-### my current projects
+<br>
+
+## :pushpin: My current projects
 <hr>
 
 <ul>
@@ -58,11 +61,11 @@ passionate about digital with a strong desire to evolve professionally in this f
 You can find here some of my work:
 Professional project with yalinov https://yalinov.bordeaux-1.wilders.dev/
 
-
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
+<hr>
 
 <a href="https://github.com/Venuzia4">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venuzia4&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -73,16 +76,20 @@ Professional project with yalinov https://yalinov.bordeaux-1.wilders.dev/
 </a>
 
 
+<br>
 
 
-
-### How can you reach me?
+## :mailbox_closed: How can you reach me?
+<hr>
 
 
 [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venuzia-babongui-mabika/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbabonguimabika@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MabikaVhenuzya) 
 
+<br>
 
-## My visitors
+## :movie_camera: My visitors
+<hr>
+
 
 <p align="center"> 
   Visitors count<br>
