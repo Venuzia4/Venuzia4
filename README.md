@@ -11,7 +11,7 @@
 ## :tipping_hand_woman: Who am i?
 <hr>
 
-I am a web developer in training at Simplon. I started my reconversion in January 2021 where I was able to improve my skills in front-end technologies, namely: html/css, javascrpit, React and now Angular. Today, I also want to learn back-end languages because my goal is to become a full-stack developer. passionate about digital with a strong desire to evolve professionally in this field, I am currently on a professionalization contract with Ratp smart systems.
+I am a web developer in training at Simplon. I started my reconversion in January 2021 where I was able to improve my skills in front-end technologies, namely: html/css, javascript, React and now Angular. Today, I also want to learn back-end languages because my goal is to become a full-stack developer. passionate about digital with a strong desire to evolve professionally in this field, I am currently on a professionalization contract with Ratp smart systems.
 
 
 
