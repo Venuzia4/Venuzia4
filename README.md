@@ -11,7 +11,13 @@
 ## :tipping_hand_woman: Who am i?
 <hr>
 
-I am a web developer in training at Simplon. I started my reconversion in January 2021 where I was able to improve my skills in front-end technologies, namely: html/css, javascript, React and now Angular. Today, I also want to learn back-end languages because my goal is to become a full-stack developer. passionate about digital with a strong desire to evolve professionally in this field, I am currently on a professionalization contract with Ratp smart systems.
+👩‍💻 I’m a Java Developer at RATP Smart Systems, working on a permanent contract since June 2024, after completing a successful apprenticeship within the same company.
+
+I began my career transition in January 2021 through Simplon, where I built a strong foundation in web development.
+
+Today, I specialize in back-end development with Java, focusing on building robust, maintainable, and high-performance applications.
+
+Passionate about technology and continuous learning, I’m eager to keep growing within the Java ecosystem and contribute to impactful projects.
 
 
 
