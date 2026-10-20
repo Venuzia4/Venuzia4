@@ -52,11 +52,8 @@ I’m continuously developing my technical skills and growing within the Java ec
 
 <ul>
 <li>Groom: a room reservation application full-stack Angular/java (as part of my current training) </li>
-<li>My portfolio</li>
 
 </ul>
-You can find here some of my work:
-Professional project with yalinov https://yalinov.bordeaux-1.wilders.dev/
 
 <br>
 
