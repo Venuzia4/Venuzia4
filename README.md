@@ -11,15 +11,9 @@
 ## :tipping_hand_woman: Who am i?
 <hr>
 
-👩‍💻 I’m a Java Developer at RATP Smart Systems, working on a permanent contract since June 2024, after completing a successful apprenticeship within the same company.
+👩‍💻 I’m a Software Developer specializing in back-end development with Java, with additional skills in front-end development using Angular.
 
-I began my career transition in January 2021 through Simplon, where I built a strong foundation in web development.
-
-Today, I specialize in back-end development with Java, focusing on building robust, maintainable, and high-performance applications.
-
-Passionate about technology and continuous learning, I’m eager to keep growing within the Java ecosystem and contribute to impactful projects.
-
-
+I’m continuously developing my technical skills and growing within the Java ecosystem, with a strong interest in software development and continuous learning.
 
 <br>
 
